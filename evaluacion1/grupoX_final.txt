@@ -1,2 +1,5 @@
 ﻿Reflexión estudiante 1: ...
 soy Jóse estudiante 2.... Lo que aprendí en github es crear un repositorio
+Soy Marti estudiante 1... Lo que aprendi es a clonar repositorios
+
+
