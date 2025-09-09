@@ -1,5 +1,6 @@
-﻿Reflexión estudiante 1: ...
+﻿Reflexión estudiante 1:soy alma quiñones Usar GitHub me permitió entender la importancia del control de versiones y el trabajo colaborativo en el desarrollo de software. Aprendí a organizar mejor mi código, documentar mis avances y trabajar en equipo de forma más eficiente. Es una herramienta fundamental para cualquier desarrollador. ...
 soy Jóse estudiante 2.... Lo que aprendí en github es crear un repositorio
 Soy Marti estudiante 1... Lo que aprendi es a clonar repositorios
+
 
 
